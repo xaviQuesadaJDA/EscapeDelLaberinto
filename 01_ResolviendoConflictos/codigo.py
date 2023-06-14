@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 class Bienvenida():
-    def __init__():
+    def __init__(self):
         self._mensaje = 'Bienvenidos futuros maestros del código'
 
     def main():
