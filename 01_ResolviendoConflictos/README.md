@@ -42,5 +42,5 @@ El archivo `codigo.py` tiene modificaciones diferentes en cada rama, y ahora deb
 
 Recuerda que el objetivo es que aprendas a identificar y resolver conflictos de fusión de ramas utilizando los comandos de Git adecuados. Utiliza las pistas proporcionadas para ayudarte a avanzar si encuentras dificultades, pero asegúrate de resolver el conflicto por ti mismo.
 
-Una vez que hayas resuelto el conflicto correctamente y hayas confirmado los cambios, podrás avanzar a la siguiente estación de la escape room: 02_EnBuscaDeLaContrasenaPerdida. ¡Buena suerte en tu misión de resolución de conflictos!
+Una vez que hayas resuelto el conflicto correctamente y hayas confirmado los cambios, podrás avanzar a la siguiente estación de la escape room: '02_EnBuscaDeLaContrasenaPerdida' que la encontrarás en la rama: 'ContrasenaPerdida'. ¡Buena suerte en tu misión de resolución de conflictos!
 
