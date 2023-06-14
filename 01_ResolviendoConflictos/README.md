@@ -6,6 +6,17 @@ En esta estación, te enfrentarás a un desafío de resolución de conflictos de
 
 El actual repositorio contiene entre otras las ramas: `Conflictos_ramaA` y `Conflictos_ramaB`. Estas dos ramas contienen cambios conflictivos en el mismo archivo.
 
+Cuando haces un git clone se clonan todas las ramas del repositorio remoto, para verlas debes añadir el 'flag': '--all' a la instrucción git branch:
+```bash=
+$ git branch --all
+* main
+  remotes/origin/Conflictos_ramaA
+  remotes/origin/Conflictos_ramaB
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+```
+Puedes ejecutar 'git chechout Conflictos_ramaA' o 'git chechout Conflictos_ramaB' para moverte entre ellas.
+
 El archivo `codigo.py` tiene modificaciones diferentes en cada rama, y ahora debes fusionar correctamente para resolver el conflicto.
 
 ## Instrucciones
