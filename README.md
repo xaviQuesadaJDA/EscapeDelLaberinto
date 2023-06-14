@@ -21,7 +21,7 @@ git clone git@github.com:xaviQuesadaJDA/EscapeDelLaberinto.git
 
 5. No olvides utilizar los comandos de Git adecuados para llevar un registro de tus cambios y avanzar en la misión.
 
-6. Una vez que hayas completado los desafíos de esta estación, podrás pasar a la siguiente estación para enfrentar nuevos y emocionantes retos.
+Para empezar navega a la carpeta: '01_ResolviendoConflictos' y sigue las instrucciones que encontrarás en su fichero README.md.
 
 Buena suerte, recluta. Que el poder de Git esté contigo en tu travesía por el Laberinto del Código.
 
