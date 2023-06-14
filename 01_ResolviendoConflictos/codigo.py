@@ -5,7 +5,8 @@ class Bienvenida():
         self._mensaje = 'Bienvenidos futuros maestros del código'
 
     def main():
-        print('Hello world!')
+        self._mensaje = 'Voy a destruir el mundo!'
+        print('Firmado: el bug maligno!!!')
 
 if __name__ == '__main__':
     bienvenida = Bienvenida()
